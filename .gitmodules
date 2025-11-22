@@ -1,6 +1,0 @@
-[submodule "src/Libraries/airgradient-client"]
-	path = src/Libraries/airgradient-client
-	url = ../../airgradienthq/airgradient-client.git
-[submodule "src/Libraries/airgradient-ota"]
-	path = src/Libraries/airgradient-ota
-	url = ../../airgradienthq/airgradient-ota.git
